@@ -1,0 +1,4 @@
+3
+C:\cbwork\simple\release\normal\X63\X1217_001.txt
+C:\cbwork\simple\release\normal\X63\X1218_001.txt
+C:\cbwork\simple\release\normal\X63\X1219_001.txt
